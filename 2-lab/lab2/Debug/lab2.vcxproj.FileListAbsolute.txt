@@ -1,0 +1,6 @@
+D:\Proga\lab2\lab2\Debug\lab2.vcxprojAssemblyReference.cache
+D:\Proga\lab2\lab2\Debug\lab2.Form1.resources
+D:\Proga\lab2\lab2\Debug\lab2.vcxproj.GenerateResource.cache
+D:\Proga\VC-labs\2-lab\lab2\Debug\lab2.vcxprojAssemblyReference.cache
+D:\Proga\VC-labs\2-lab\lab2\Debug\lab2.Form1.resources
+D:\Proga\VC-labs\2-lab\lab2\Debug\lab2.vcxproj.GenerateResource.cache

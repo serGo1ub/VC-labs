@@ -1,0 +1,8 @@
+﻿  MyForm.cpp
+D:\Proga\VC-labs\2-lab\lab2\MyForm.cpp(1,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+D:\Proga\VC-labs\2-lab\lab2\Form1.h(330,13): warning C4101: k: неиспользованная локальная переменная
+D:\Proga\VC-labs\2-lab\lab2\Form1.h(330,22): warning C4101: t: неиспользованная локальная переменная
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  Создание кода...
+  MyForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  lab2.vcxproj -> D:\Proga\VC-labs\2-lab\Debug\lab2.exe
