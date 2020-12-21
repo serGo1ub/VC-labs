@@ -1,0 +1,8 @@
+﻿  MyForm.cpp
+D:\Proga\VC-labs\1-lab\lab1\lab1\MyForm.cpp(1,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+  MyForm1.cpp
+D:\Proga\VC-labs\1-lab\lab1\lab1\MyForm1.cpp(7,33): warning C4829: Возможно, неправильные параметры функции main. Рекомендуемый вариант - "int main(Platform::Array<Platform::String^>^ argv)"
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  Создание кода...
+  MyForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  lab1.vcxproj -> D:\Proga\VC-labs\1-lab\lab1\Debug\lab1.exe
