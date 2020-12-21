@@ -1,0 +1,2 @@
+D:\Proga\lab3a\lab3a\Debug\lab3a.vcxprojAssemblyReference.cache
+D:\Proga\VC-labs\3-lab\lab3a\lab3a\Debug\lab3a.vcxprojAssemblyReference.cache

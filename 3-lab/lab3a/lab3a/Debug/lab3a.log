@@ -1,0 +1,10 @@
+﻿  MyForm.cpp
+D:\Proga\VC-labs\3-lab\lab3a\lab3a\MyForm.h(103,74): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\Proga\VC-labs\3-lab\lab3a\lab3a\MyForm.h(103,62): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\Proga\VC-labs\3-lab\lab3a\lab3a\MyForm.h(104,66): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\Proga\VC-labs\3-lab\lab3a\lab3a\MyForm.h(106,44): warning C4101: y0: неиспользованная локальная переменная
+D:\Proga\VC-labs\3-lab\lab3a\lab3a\MyForm.h(106,40): warning C4101: x0: неиспользованная локальная переменная
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  Создание кода...
+  MyForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  lab3a.vcxproj -> D:\Proga\VC-labs\3-lab\lab3a\Debug\lab3a.exe
